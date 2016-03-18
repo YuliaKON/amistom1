@@ -12,7 +12,7 @@ volatile uint16_t 		systick_ms;
 uint16_t 				capture1, 	capture2;
 volatile uint16_t 	 	capture_is_first = 1, capture1_is_first = 1, capture2_is_first = 1, capture_is_ready = 0, capture1_is_ready = 0, capture2_is_ready = 0;
 uint16_t 	    		_period, _periodB0, _periodB1;
-extern MODE_TypeDef		struct_sample;
+extern MODE_TypeDef		struct_sample;//
 		// uint16_t period;
 
 

@@ -44,7 +44,7 @@ all: Amistom.elf secondary-outputs
 Amistom.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Cross ARM C Linker'
-	arm-none-eabi-gcc -mcpu=cortex-m3 -march=armv7e-m -mthumb -mlittle-endian -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -T "E:\amistom1-master\amistom1-master\Amistom\stm32_flash.ld" -Xlinker --gc-sections -Wl,-Map,"Amistom.map" -o "Amistom.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -mcpu=cortex-m3 -march=armv7e-m -mthumb -mlittle-endian -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -Os -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g -T "C:\Users\mos-rk-753\amistom_test\Amistom\stm32_flash.ld" -Xlinker --gc-sections -Wl,-Map,"Amistom.map" -o "Amistom.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 

@@ -44,13 +44,13 @@ Amistom.siz \
 all: Amistom.elf secondary-outputs
 
 dependents:
-	-cd E:/amistom1-master/amistom1-master/Amistom/Release && $(MAKE) all
+	-cd C:/Users/mos-rk-753/amistom_test/Amistom/Release && $(MAKE) clean all
 
 # Tool invocations
-Amistom.elf: $(OBJS) $(USER_OBJS) E:/amistom1-master/amistom1-master/Amistom/Release/Amistom.elf
+Amistom.elf: $(OBJS) $(USER_OBJS) C:/Users/mos-rk-753/amistom_test/Amistom/Release/Amistom.elf
 	@echo 'Building target: $@'
 	@echo 'Invoking: Cross ARM C Linker'
-	arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -ggdb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "E:\amistom1-master\amistom1-master\Amistom\stm32_flash.ld" -Xlinker --gc-sections -Wl,-Map,"Amistom.map" -o "Amistom.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=softfp -ggdb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:\Users\mos-rk-753\amistom_test\Amistom\stm32_flash.ld" -Xlinker --gc-sections -Wl,-Map,"Amistom.map" -o "Amistom.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
@@ -81,6 +81,6 @@ secondary-outputs: $(SECONDARY_FLASH) $(SECONDARY_LIST) $(SECONDARY_SIZE)
 
 .PHONY: all clean dependents
 .SECONDARY:
-E:/amistom1-master/amistom1-master/Amistom/Release/Amistom.elf:
+C:/Users/mos-rk-753/amistom_test/Amistom/Release/Amistom.elf:
 
 -include ../makefile.targets
