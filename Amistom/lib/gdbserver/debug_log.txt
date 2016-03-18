@@ -1,0 +1,2 @@
+[0.012]  STM32_InitDevice():  Target unknown MCU target
+[0.013]  init_server_context():  Error in Initializing ST-Link device

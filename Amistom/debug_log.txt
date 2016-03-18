@@ -1,0 +1,2 @@
+[0.000]  STM32_InitDevice():  Target no device found
+[0.000]  init_server_context():  Error in Initializing ST-Link device
