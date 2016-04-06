@@ -97,12 +97,12 @@ int main(void)
 	uint8_t pat_count, counter1, meandre_ok = 0;
 	SysTick_Config(SystemCoreClock / 1000);//200000
 
-	if (Button_test() == false) 					   state_err[4] = 0x04;
-	if (GPIO_ReadInputDataBit(GPIOB, GPIO_Pin_0) == 0) state_err[6] = 0x06;
-	if (GPIO_ReadInputDataBit(GPIOB, GPIO_Pin_1) == 0) state_err[8] = 0x08;
-	if (meandr_test(GPIOB, GPIO_Pin_0) == true)		   state_err[7] = 0x07;
-	if (meandr_test(GPIOB, GPIO_Pin_1) == true)		   {state_err[9] = 0x09;
-	GPIO_SetBits(GPIOC, GPIO_Pin_7), GPIO_SetBits(GPIOC, GPIO_Pin_6);}//вкл индикатор излучение, вкл бипер
+	if (Button_test() == false) 					   state_err[4] = 0x04;		//button on test
+	if (GPIO_ReadInputDataBit(GPIOB, GPIO_Pin_0) == 0) state_err[6] = 0x06;		//LV1 error
+	if (GPIO_ReadInputDataBit(GPIOB, GPIO_Pin_1) == 0) state_err[8] = 0x08;		//LV2 error
+	if (meandr_test(GPIOB, GPIO_Pin_0) == true)		   state_err[7] = 0x07;		//short-circuit K1
+	if (meandr_test(GPIOB, GPIO_Pin_1) == true)		   {state_err[9] = 0x09;	//emission in process \/ monoblok isn't connected
+	Emission(true); Beeper(true);}												//вкл индикатор излучение, вкл бипер
 
 	Display(&display, struct_sample.voltage_correction*struct_sample.man_exposition*20);//длительность экспозиции мс
 
@@ -111,6 +111,11 @@ int main(void)
 	while(1)
 	{
 		wait_label:
+
+// while B_SAFE and B_FILM is ON, do get voltage and output to display
+			if (Button_OnClick(B_SAFE) && Button_OnClick(B_FILM)) {
+				DI_Display(&display, readADC1(), 0);
+			}
 
 		meandr_auto();
 
@@ -126,7 +131,7 @@ int main(void)
 		    		    	DI_Display(&display, 33, 0);\
 		    		    	struct_sample.patient_type = PAT2;} break;
 		    		    	case 3: {GPIO_ResetBits(GPIOB, GPIO_Pin_3);	GPIO_ResetBits(GPIOD, GPIO_Pin_6);	GPIO_SetBits(GPIOD, GPIO_Pin_4);\
-		    		    	DI_Display(&display, 888, 0);\
+		    		    	DI_Display(&display, 111, 0);\
 		    		    	struct_sample.patient_type = PAT3;} break;
 		    		    	default:{GPIO_ResetBits(GPIOB, GPIO_Pin_3);	GPIO_ResetBits(GPIOD, GPIO_Pin_6);	GPIO_ResetBits(GPIOD, GPIO_Pin_4);}	break;
 		   }
@@ -159,7 +164,13 @@ int main(void)
 
 
 //buttons released
-		if (Button_OnClick(B_EXP) == 1)
+		    Button_OnClick(B_EXP)?  (b_Exp = 1):(b_Exp = 0);
+		    Button_OnClick(B_PLUS)? (b_Plus = 1):(b_Plus = 0);
+		    Button_OnClick(B_MINUS)?(b_Minus = 1):(b_Minus = 0);
+		    Button_OnClick(B_FILM)? (b_Film = 1):(b_Film = 0);
+		    Button_OnClick(B_UIN)? 	(b_Uin = 1):(b_Uin = 0);
+
+		/*if (Button_OnClick(B_EXP) == 1)
 			b_Exp = 1;
 		if (Button_OnClick(B_PLUS) == 1)
 			b_Plus = 1;
@@ -169,7 +180,7 @@ int main(void)
 			b_Film = 1;
 		if (Button_OnClick(B_UIN) == 1)
 			b_Uin = 1;
-
+*/
 //Выбор зуба
 		if (Button_OnClick(B_UPM) == 1){
 			TOOTH_IND_ON('upm') ;
@@ -225,7 +236,7 @@ int main(void)
 				{state_err[6] = 0x06; mode_emit = idle; goto wait_label;}
 				if (meandr_test(GPIOB, GPIO_Pin_1) == 1)
 				{state_err[9] = 0x09; mode_emit = idle;
-				GPIO_SetBits(GPIOC, GPIO_Pin_7), GPIO_SetBits(GPIOC, GPIO_Pin_6);}//вкл светодиод изхл, биппер
+				Emission(true); Beeper(true);}//light ON, beeper ON
 
 				if ((GPIO_ReadInputDataBit(GPIOB, GPIO_Pin_1) == 1)&(meandr_test(GPIOB, GPIO_Pin_0) == true))
 				{mode_emit = emit;}

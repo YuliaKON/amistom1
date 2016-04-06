@@ -44,7 +44,7 @@ Amistom.siz \
 all: Amistom.elf secondary-outputs
 
 dependents:
-	-cd C:/Users/mos-rk-753/amistom_test/Amistom/Release && $(MAKE) clean all
+	-cd C:/Users/mos-rk-753/amistom_test/Amistom/Release && $(MAKE) all
 
 # Tool invocations
 Amistom.elf: $(OBJS) $(USER_OBJS) C:/Users/mos-rk-753/amistom_test/Amistom/Release/Amistom.elf

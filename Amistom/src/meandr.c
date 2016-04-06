@@ -114,7 +114,6 @@ void init_meandr_timer(void)
   /* Подаём такты на TIM3 */
   RCC_AHB1PeriphClockCmd(RCC_APB1Periph_TIM3, ENABLE);
 
-  /* Настраиваем предделитель так, чтобы таймер считал миллисекунды */
   TIM_TimeBaseInitTypeDef timer_base;
   TIM_TimeBaseStructInit(&timer_base);
   timer_base.TIM_Prescaler = 24000 - 1;
@@ -129,12 +128,12 @@ void init_meandr_timer(void)
   timer_ic.TIM_ICFilter = 		0;
   TIM_ICInit(TIM3, &timer_ic);
 
-  /* Разрешаем таймеру генерировать прерывание по захвату */
+
   TIM_ITConfig(TIM3, TIM_IT_CC3, ENABLE);
   NVIC_SetPriority(TIM3_IRQn, 1);
   /* Включаем таймер */
   TIM_Cmd(TIM3, ENABLE);
-  /* Разрешаем прерывания таймера TIM3 */
+
   NVIC_EnableIRQ(TIM3_IRQn);
 }
 
@@ -166,14 +165,14 @@ void TIM3_IRQHandler(void)
 
 extern uint16_t capture1, capture2;
 
-  if (1/*TIM_GetITStatus(TIM3, TIM_IT_CC3) != RESET*/)
+  if (TIM_GetITStatus(TIM3, TIM_IT_CC3) != RESET)
   {
 
     TIM_ClearITPendingBit(TIM3, TIM_IT_CC3);
 
 
     capture1 = capture2;
-    capture2 = 1000;//TIM_GetCapture3(TIM3);
+    capture2 = TIM_GetCapture3(TIM3);
 
 
     if (!capture_is_first)
@@ -192,7 +191,7 @@ extern uint16_t capture1, capture2;
 }
 
 
-/* Вычисляет разность во времени с учётом переполнения счётчика таймера */
+
 uint16_t uint16_time_diff(uint16_t now, uint16_t before)
 {
   return (now >= before) ? (now - before) : (UINT16_MAX - before + now);
@@ -229,7 +228,7 @@ VOLT_t exposition_count(void)
 		if ((current_voltage >= counter+210)&(current_voltage < counter+215)) voltage_correction = volt210_215;
 		if ((current_voltage >= counter+215)&(current_voltage < counter+225)) voltage_correction = volt215_225;
 		if ((current_voltage >= counter+225)&(current_voltage < counter+230)) voltage_correction = volt225_230;
-		if ((current_voltage >= counter+230)&(current_voltage < counter+235)) voltage_correction = volt230_235;
+	    if ((current_voltage >= counter+230)&(current_voltage < counter+235)) voltage_correction = volt230_235;
 		if ((current_voltage >= counter+235)&(current_voltage < counter+240)) voltage_correction = volt235_240;
 		if ((current_voltage >= counter+240)&(current_voltage < counter+247)) voltage_correction = volt240_247;
 	}

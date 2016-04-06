@@ -1,25 +1,25 @@
 Archive member included because of file (symbol)
 
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
                               ./src/io.o (__aeabi_ui2d)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
                               ./src/io.o (__aeabi_dmul)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (exit)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o) (_global_impure_ptr)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_init_array)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (memset)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o) (__call_exitprocs)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o) (atexit)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
-c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
-                              c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o) (__register_exitproc)
 
 Allocating common symbols
 Common symbol       size              file
@@ -62,17 +62,17 @@ bUin                0x1               ./src/button.o
 
 Discarded input sections
 
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
- .data          0x00000000        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
- .text          0x00000000       0x74 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
- .ARM.extab     0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
- .ARM.exidx     0x00000000        0x8 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .text          0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
  .ARM.attributes
-                0x00000000       0x20 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+                0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
  .text          0x00000000       0x14 ./startup/startup_stm32f4xx.o
  .data          0x00000000        0x0 ./startup/startup_stm32f4xx.o
  .bss           0x00000000        0x0 ./startup/startup_stm32f4xx.o
@@ -130,6 +130,7 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/button.o
  .group         0x00000000        0x8 ./src/button.o
  .group         0x00000000        0x8 ./src/button.o
+ .group         0x00000000        0x8 ./src/button.o
  .text          0x00000000        0x0 ./src/button.o
  .data          0x00000000        0x0 ./src/button.o
  .bss           0x00000000        0x0 ./src/button.o
@@ -140,11 +141,16 @@ Discarded input sections
                 0x00000000       0x58 ./src/button.o
  .text.Button_OnPressed
                 0x00000000       0x38 ./src/button.o
- .bss.old_wert.6648
-                0x00000000       0x10 ./src/button.o
+ .bss.old_wert.6658
+                0x00000000        0xd ./src/button.o
+ .debug_macro   0x00000000      0x880 ./src/button.o
  .debug_macro   0x00000000       0x5d ./src/button.o
  .debug_macro   0x00000000       0x35 ./src/button.o
+ .debug_macro   0x00000000       0x22 ./src/button.o
  .debug_macro   0x00000000       0x44 ./src/button.o
+ .debug_macro   0x00000000       0x58 ./src/button.o
+ .debug_macro   0x00000000       0x22 ./src/button.o
+ .debug_macro   0x00000000      0x1df ./src/button.o
  .debug_macro   0x00000000       0x18 ./src/button.o
  .debug_macro   0x00000000       0x42 ./src/button.o
  .debug_macro   0x00000000      0x8cb ./src/button.o
@@ -157,6 +163,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x73b ./src/button.o
  .debug_macro   0x00000000       0x7f ./src/button.o
  .debug_macro   0x00000000       0x35 ./src/button.o
+ .group         0x00000000        0x8 ./src/display.o
  .group         0x00000000        0x8 ./src/display.o
  .group         0x00000000        0x8 ./src/display.o
  .group         0x00000000        0x8 ./src/display.o
@@ -198,8 +205,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./src/display.o
  .debug_macro   0x00000000       0x22 ./src/display.o
  .debug_macro   0x00000000       0x44 ./src/display.o
- .debug_macro   0x00000000       0x1c ./src/display.o
- .debug_macro   0x00000000      0x1f7 ./src/display.o
+ .debug_macro   0x00000000       0x58 ./src/display.o
+ .debug_macro   0x00000000       0x22 ./src/display.o
+ .debug_macro   0x00000000      0x1df ./src/display.o
  .debug_macro   0x00000000       0x18 ./src/display.o
  .debug_macro   0x00000000       0x42 ./src/display.o
  .debug_macro   0x00000000      0x8cb ./src/display.o
@@ -246,6 +254,7 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/globalTimer.o
  .group         0x00000000        0x8 ./src/globalTimer.o
  .group         0x00000000        0x8 ./src/globalTimer.o
+ .group         0x00000000        0x8 ./src/globalTimer.o
  .text          0x00000000        0x0 ./src/globalTimer.o
  .data          0x00000000        0x0 ./src/globalTimer.o
  .bss           0x00000000        0x0 ./src/globalTimer.o
@@ -257,8 +266,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./src/globalTimer.o
  .debug_macro   0x00000000       0x22 ./src/globalTimer.o
  .debug_macro   0x00000000       0x44 ./src/globalTimer.o
- .debug_macro   0x00000000       0x1c ./src/globalTimer.o
- .debug_macro   0x00000000      0x1f7 ./src/globalTimer.o
+ .debug_macro   0x00000000       0x58 ./src/globalTimer.o
+ .debug_macro   0x00000000       0x22 ./src/globalTimer.o
+ .debug_macro   0x00000000      0x1df ./src/globalTimer.o
  .debug_macro   0x00000000       0x18 ./src/globalTimer.o
  .debug_macro   0x00000000       0x42 ./src/globalTimer.o
  .debug_macro   0x00000000      0x8cb ./src/globalTimer.o
@@ -306,20 +316,22 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/io.o
  .group         0x00000000        0x8 ./src/io.o
  .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
  .text          0x00000000        0x0 ./src/io.o
  .data          0x00000000        0x0 ./src/io.o
  .bss           0x00000000        0x0 ./src/io.o
  .text.read_abs
                 0x00000000       0x34 ./src/io.o
  .text.InOut_adcStart
-                0x00000000       0xa0 ./src/io.o
+                0x00000000       0x9c ./src/io.o
  .debug_macro   0x00000000      0x880 ./src/io.o
  .debug_macro   0x00000000       0x5d ./src/io.o
  .debug_macro   0x00000000       0x35 ./src/io.o
  .debug_macro   0x00000000       0x22 ./src/io.o
  .debug_macro   0x00000000       0x44 ./src/io.o
- .debug_macro   0x00000000       0x1c ./src/io.o
- .debug_macro   0x00000000      0x1f7 ./src/io.o
+ .debug_macro   0x00000000       0x58 ./src/io.o
+ .debug_macro   0x00000000       0x22 ./src/io.o
+ .debug_macro   0x00000000      0x1df ./src/io.o
  .debug_macro   0x00000000       0x18 ./src/io.o
  .debug_macro   0x00000000       0x42 ./src/io.o
  .debug_macro   0x00000000      0x8cb ./src/io.o
@@ -367,6 +379,7 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/main.o
  .group         0x00000000        0x8 ./src/main.o
  .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
  .text          0x00000000        0x0 ./src/main.o
  .data          0x00000000        0x0 ./src/main.o
  .bss           0x00000000        0x0 ./src/main.o
@@ -384,8 +397,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./src/main.o
  .debug_macro   0x00000000       0x22 ./src/main.o
  .debug_macro   0x00000000       0x44 ./src/main.o
- .debug_macro   0x00000000       0x1c ./src/main.o
- .debug_macro   0x00000000      0x1f7 ./src/main.o
+ .debug_macro   0x00000000       0x58 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
  .debug_macro   0x00000000       0x18 ./src/main.o
  .debug_macro   0x00000000       0x42 ./src/main.o
  .debug_macro   0x00000000      0x8cb ./src/main.o
@@ -433,6 +447,7 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/meandr.o
  .group         0x00000000        0x8 ./src/meandr.o
  .group         0x00000000        0x8 ./src/meandr.o
+ .group         0x00000000        0x8 ./src/meandr.o
  .text          0x00000000        0x0 ./src/meandr.o
  .data          0x00000000        0x0 ./src/meandr.o
  .bss           0x00000000        0x0 ./src/meandr.o
@@ -447,8 +462,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./src/meandr.o
  .debug_macro   0x00000000       0x22 ./src/meandr.o
  .debug_macro   0x00000000       0x44 ./src/meandr.o
- .debug_macro   0x00000000       0x1c ./src/meandr.o
- .debug_macro   0x00000000      0x1f7 ./src/meandr.o
+ .debug_macro   0x00000000       0x58 ./src/meandr.o
+ .debug_macro   0x00000000       0x22 ./src/meandr.o
+ .debug_macro   0x00000000      0x1df ./src/meandr.o
  .debug_macro   0x00000000       0x18 ./src/meandr.o
  .debug_macro   0x00000000       0x42 ./src/meandr.o
  .debug_macro   0x00000000      0x8cb ./src/meandr.o
@@ -496,6 +512,7 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/mode.o
  .group         0x00000000        0x8 ./src/mode.o
  .group         0x00000000        0x8 ./src/mode.o
+ .group         0x00000000        0x8 ./src/mode.o
  .text          0x00000000        0x0 ./src/mode.o
  .data          0x00000000        0x0 ./src/mode.o
  .bss           0x00000000        0x0 ./src/mode.o
@@ -506,14 +523,15 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 ./src/mode.o
  .debug_ranges  0x00000000       0x10 ./src/mode.o
- .debug_macro   0x00000000      0x188 ./src/mode.o
+ .debug_macro   0x00000000      0x191 ./src/mode.o
  .debug_macro   0x00000000      0x880 ./src/mode.o
  .debug_macro   0x00000000       0x5d ./src/mode.o
  .debug_macro   0x00000000       0x35 ./src/mode.o
  .debug_macro   0x00000000       0x22 ./src/mode.o
  .debug_macro   0x00000000       0x44 ./src/mode.o
- .debug_macro   0x00000000       0x1c ./src/mode.o
- .debug_macro   0x00000000      0x1f7 ./src/mode.o
+ .debug_macro   0x00000000       0x58 ./src/mode.o
+ .debug_macro   0x00000000       0x22 ./src/mode.o
+ .debug_macro   0x00000000      0x1df ./src/mode.o
  .debug_macro   0x00000000       0x18 ./src/mode.o
  .debug_macro   0x00000000       0x42 ./src/mode.o
  .debug_macro   0x00000000      0x8cb ./src/mode.o
@@ -534,12 +552,13 @@ Discarded input sections
  .debug_macro   0x00000000       0x40 ./src/mode.o
  .debug_macro   0x00000000       0x16 ./src/mode.o
  .debug_macro   0x00000000       0x1c ./src/mode.o
- .debug_line    0x00000000      0x530 ./src/mode.o
- .debug_str     0x00000000    0x476e2 ./src/mode.o
+ .debug_line    0x00000000      0x585 ./src/mode.o
+ .debug_str     0x00000000    0x4776a ./src/mode.o
  .comment       0x00000000       0x71 ./src/mode.o
  .debug_frame   0x00000000       0x38 ./src/mode.o
  .ARM.attributes
                 0x00000000       0x37 ./src/mode.o
+ .group         0x00000000        0x8 ./src/nvic.o
  .group         0x00000000        0x8 ./src/nvic.o
  .group         0x00000000        0x8 ./src/nvic.o
  .group         0x00000000        0x8 ./src/nvic.o
@@ -574,14 +593,15 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x71 ./src/nvic.o
  .debug_aranges
                 0x00000000       0x18 ./src/nvic.o
- .debug_macro   0x00000000      0x18e ./src/nvic.o
+ .debug_macro   0x00000000      0x197 ./src/nvic.o
  .debug_macro   0x00000000      0x880 ./src/nvic.o
  .debug_macro   0x00000000       0x5d ./src/nvic.o
  .debug_macro   0x00000000       0x35 ./src/nvic.o
  .debug_macro   0x00000000       0x22 ./src/nvic.o
  .debug_macro   0x00000000       0x44 ./src/nvic.o
- .debug_macro   0x00000000       0x1c ./src/nvic.o
- .debug_macro   0x00000000      0x1f7 ./src/nvic.o
+ .debug_macro   0x00000000       0x58 ./src/nvic.o
+ .debug_macro   0x00000000       0x22 ./src/nvic.o
+ .debug_macro   0x00000000      0x1df ./src/nvic.o
  .debug_macro   0x00000000       0x18 ./src/nvic.o
  .debug_macro   0x00000000       0x42 ./src/nvic.o
  .debug_macro   0x00000000      0x8cb ./src/nvic.o
@@ -602,11 +622,12 @@ Discarded input sections
  .debug_macro   0x00000000       0x40 ./src/nvic.o
  .debug_macro   0x00000000       0x16 ./src/nvic.o
  .debug_macro   0x00000000       0x1c ./src/nvic.o
- .debug_line    0x00000000      0x467 ./src/nvic.o
- .debug_str     0x00000000    0x47498 ./src/nvic.o
+ .debug_line    0x00000000      0x4bc ./src/nvic.o
+ .debug_str     0x00000000    0x47520 ./src/nvic.o
  .comment       0x00000000       0x71 ./src/nvic.o
  .ARM.attributes
                 0x00000000       0x37 ./src/nvic.o
+ .group         0x00000000        0x8 ./src/outpin.o
  .group         0x00000000        0x8 ./src/outpin.o
  .group         0x00000000        0x8 ./src/outpin.o
  .group         0x00000000        0x8 ./src/outpin.o
@@ -648,8 +669,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./src/outpin.o
  .debug_macro   0x00000000       0x22 ./src/outpin.o
  .debug_macro   0x00000000       0x44 ./src/outpin.o
- .debug_macro   0x00000000       0x1c ./src/outpin.o
- .debug_macro   0x00000000      0x1f7 ./src/outpin.o
+ .debug_macro   0x00000000       0x58 ./src/outpin.o
+ .debug_macro   0x00000000       0x22 ./src/outpin.o
+ .debug_macro   0x00000000      0x1df ./src/outpin.o
  .debug_macro   0x00000000       0x18 ./src/outpin.o
  .debug_macro   0x00000000       0x42 ./src/outpin.o
  .debug_macro   0x00000000      0x8cb ./src/outpin.o
@@ -697,6 +719,7 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/uart.o
  .group         0x00000000        0x8 ./src/uart.o
  .group         0x00000000        0x8 ./src/uart.o
+ .group         0x00000000        0x8 ./src/uart.o
  .text          0x00000000        0x0 ./src/uart.o
  .data          0x00000000        0x0 ./src/uart.o
  .bss           0x00000000        0x0 ./src/uart.o
@@ -714,8 +737,8 @@ Discarded input sections
                 0x00000000       0x2c ./src/uart.o
  .text.USART_Read_int
                 0x00000000       0x98 ./src/uart.o
- .bss.a.6631    0x00000000        0x4 ./src/uart.o
- .bss.rx_index.6630
+ .bss.a.6635    0x00000000        0x4 ./src/uart.o
+ .bss.rx_index.6634
                 0x00000000        0x4 ./src/uart.o
  .debug_macro   0x00000000      0x880 ./src/uart.o
  .debug_macro   0x00000000       0x16 ./src/uart.o
@@ -723,8 +746,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x35 ./src/uart.o
  .debug_macro   0x00000000       0x22 ./src/uart.o
  .debug_macro   0x00000000       0x44 ./src/uart.o
- .debug_macro   0x00000000       0x1c ./src/uart.o
- .debug_macro   0x00000000      0x1f7 ./src/uart.o
+ .debug_macro   0x00000000       0x58 ./src/uart.o
+ .debug_macro   0x00000000       0x22 ./src/uart.o
+ .debug_macro   0x00000000      0x1df ./src/uart.o
  .debug_macro   0x00000000       0x18 ./src/uart.o
  .debug_macro   0x00000000       0x42 ./src/uart.o
  .debug_macro   0x00000000      0x8cb ./src/uart.o
@@ -813,10 +837,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x880 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x5d ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x35 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_macro   0x00000000       0x22 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x44 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_macro   0x00000000       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_macro   0x00000000      0x1f7 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x18 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000       0x42 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_macro   0x00000000      0x8cb ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
@@ -3235,8 +3256,6 @@ Discarded input sections
                 0x00000000       0x18 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TIM_GetCapture2
                 0x00000000       0x18 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .text.TIM_GetCapture3
-                0x00000000       0x18 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TIM_GetCapture4
                 0x00000000       0x18 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TIM_BDTRConfig
@@ -3251,8 +3270,6 @@ Discarded input sections
                 0x00000000       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TIM_GenerateEvent
                 0x00000000       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .text.TIM_GetITStatus
-                0x00000000       0x54 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TIM_DMAConfig
                 0x00000000       0x28 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TIM_DMACmd
@@ -3462,67 +3479,67 @@ Discarded input sections
  .debug_frame   0x00000000      0x134 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_wwdg.o
  .ARM.attributes
                 0x00000000       0x37 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_wwdg.o
- .text          0x00000000      0x370 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x370 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
  .ARM.attributes
-                0x00000000       0x22 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
- .text          0x00000000      0x424 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
  .ARM.attributes
-                0x00000000       0x22 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
- .text.exit     0x00000000       0x20 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
- .debug_frame   0x00000000       0x28 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
  .ARM.attributes
-                0x00000000       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                0x00000000       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
  .data._impure_ptr
-                0x00000000        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
  .text.__libc_init_array
-                0x00000000       0x50 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
- .debug_frame   0x00000000       0x2c c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+                0x00000000       0x50 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
  .ARM.attributes
-                0x00000000       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
- .text.memset   0x00000000       0x9c c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
- .debug_frame   0x00000000       0x34 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+                0x00000000       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000000       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+                0x00000000       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
  .text.__call_exitprocs
-                0x00000000       0xd4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
- .eh_frame      0x00000000        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
- .jcr           0x00000000        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+                0x00000000       0xd4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .jcr           0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
  .ARM.attributes
-                0x00000000       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
- .text          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
- .data          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
- .bss           0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+                0x00000000       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
 
 Memory Configuration
 
@@ -3535,9 +3552,9 @@ MEMORY_B1        0x60000000         0x00000000         xr
 
 Linker script and memory map
 
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
 LOAD ./startup/startup_stm32f4xx.o
 LOAD ./startup/system_stm32f4xx.o
 LOAD ./src/button.o
@@ -3583,12 +3600,12 @@ LOAD ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
 LOAD ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 LOAD ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_wwdg.o
 START GROUP
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libc.a
 END GROUP
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
-LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
                 0x20020000                _estack = 0x20020000
                 0x00000000                _Min_Heap_Size = 0x0
                 0x00000400                _Min_Stack_Size = 0x400
@@ -3600,10 +3617,10 @@ LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/arm
                 0x08000000                g_pfnVectors
                 0x08000188                . = ALIGN (0x4)
 
-.text           0x08000188     0x34e8
+.text           0x08000188     0x35fc
                 0x08000188                . = ALIGN (0x4)
  *(.text)
- .text          0x08000188       0x5c c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .text          0x08000188       0x5c c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
  *(.text*)
  .text.Reset_Handler
                 0x080001e4       0x44 ./startup/startup_stm32f4xx.o
@@ -3703,349 +3720,361 @@ LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/arm
                 0x0800022c                SystemInit
  .text.SetSysClock
                 0x08000294       0xf4 ./startup/system_stm32f4xx.o
+ .text.Beeper   0x08000388       0x2c ./src/button.o
+                0x08000388                Beeper
+ .text.Emission
+                0x080003b4       0x2c ./src/button.o
+                0x080003b4                Emission
  .text.Button_Init
-                0x08000388       0x8c ./src/button.o
-                0x08000388                Button_Init
+                0x080003e0       0x8c ./src/button.o
+                0x080003e0                Button_Init
  .text.Button_OnClick
-                0x08000414       0x54 ./src/button.o
-                0x08000414                Button_OnClick
+                0x0800046c       0x54 ./src/button.o
+                0x0800046c                Button_OnClick
  .text.Button_test
-                0x08000468       0x48 ./src/button.o
-                0x08000468                Button_test
+                0x080004c0       0x48 ./src/button.o
+                0x080004c0                Button_test
  .text.Button_InitTIM
-                0x080004b0       0x48 ./src/button.o
-                0x080004b0                Button_InitTIM
+                0x08000508       0x48 ./src/button.o
+                0x08000508                Button_InitTIM
  .text.Button_InitNVIC
-                0x080004f8       0x34 ./src/button.o
-                0x080004f8                Button_InitNVIC
+                0x08000550       0x34 ./src/button.o
+                0x08000550                Button_InitNVIC
  .text.TIM7_IRQHandler
-                0x0800052c       0x70 ./src/button.o
-                0x0800052c                TIM7_IRQHandler
+                0x08000584       0x70 ./src/button.o
+                0x08000584                TIM7_IRQHandler
  .text.DI_Pow10
-                0x0800059c       0x3c ./src/display.o
-                0x0800059c                DI_Pow10
+                0x080005f4       0x3c ./src/display.o
+                0x080005f4                DI_Pow10
  .text.DI_DisplayDigit
-                0x080005d8      0x2ec ./src/display.o
-                0x080005d8                DI_DisplayDigit
+                0x08000630      0x2ec ./src/display.o
+                0x08000630                DI_DisplayDigit
  .text.DI_DisplayNone
-                0x080008c4       0x84 ./src/display.o
-                0x080008c4                DI_DisplayNone
+                0x0800091c       0x84 ./src/display.o
+                0x0800091c                DI_DisplayNone
  .text.DI_TimerHandler
-                0x08000948       0x70 ./src/display.o
-                0x08000948                DI_TimerHandler
- .text.DI_Init  0x080009b8      0x100 ./src/display.o
-                0x080009b8                DI_Init
+                0x080009a0       0x70 ./src/display.o
+                0x080009a0                DI_TimerHandler
+ .text.DI_Init  0x08000a10      0x100 ./src/display.o
+                0x08000a10                DI_Init
  .text.DI_Display
-                0x08000ab8       0xa0 ./src/display.o
-                0x08000ab8                DI_Display
- .text.Display  0x08000b58       0x34 ./src/display.o
-                0x08000b58                Display
+                0x08000b10       0xa0 ./src/display.o
+                0x08000b10                DI_Display
+ .text.Display  0x08000bb0       0x34 ./src/display.o
+                0x08000bb0                Display
  .text.GlobalTimerInit
-                0x08000b8c       0x74 ./src/globalTimer.o
-                0x08000b8c                GlobalTimerInit
+                0x08000be4       0x74 ./src/globalTimer.o
+                0x08000be4                GlobalTimerInit
  .text.TIM5_IRQHandler
-                0x08000c00       0x64 ./src/globalTimer.o
-                0x08000c00                TIM5_IRQHandler
+                0x08000c58       0x64 ./src/globalTimer.o
+                0x08000c58                TIM5_IRQHandler
  .text.delay_ms
-                0x08000c64       0x3c ./src/globalTimer.o
-                0x08000c64                delay_ms
- .text.AdcInit  0x08000ca0      0x148 ./src/io.o
-                0x08000ca0                AdcInit
+                0x08000cbc       0x3c ./src/globalTimer.o
+                0x08000cbc                delay_ms
+ .text.AdcInit  0x08000cf8      0x148 ./src/io.o
+                0x08000cf8                AdcInit
  .text.readADC1
-                0x08000de8       0x38 ./src/io.o
-                0x08000de8                readADC1
+                0x08000e40       0x38 ./src/io.o
+                0x08000e40                readADC1
  .text.NVIC_SetPriority
-                0x08000e20       0x54 ./src/main.o
+                0x08000e78       0x54 ./src/main.o
  .text.SysTick_Config
-                0x08000e74       0x44 ./src/main.o
+                0x08000ecc       0x44 ./src/main.o
  .text.Initialization_All
-                0x08000eb8      0x108 ./src/main.o
-                0x08000eb8                Initialization_All
+                0x08000f10      0x108 ./src/main.o
+                0x08000f10                Initialization_All
  .text.SysTick_Handler
-                0x08000fc0       0x24 ./src/main.o
-                0x08000fc0                SysTick_Handler
- .text.main     0x08000fe4      0x714 ./src/main.o
-                0x08000fe4                main
+                0x08001018       0x24 ./src/main.o
+                0x08001018                SysTick_Handler
+ .text.main     0x0800103c      0x750 ./src/main.o
+                0x0800103c                main
  .text.NVIC_EnableIRQ
-                0x080016f8       0x30 ./src/meandr.o
+                0x0800178c       0x30 ./src/meandr.o
  .text.NVIC_DisableIRQ
-                0x08001728       0x34 ./src/meandr.o
+                0x080017bc       0x34 ./src/meandr.o
  .text.NVIC_SetPriority
-                0x0800175c       0x54 ./src/meandr.o
+                0x080017f0       0x54 ./src/meandr.o
  .text.meandr_auto
-                0x080017b0       0x50 ./src/meandr.o
-                0x080017b0                meandr_auto
+                0x08001844       0x50 ./src/meandr.o
+                0x08001844                meandr_auto
  .text.meandrB0_capture
-                0x08001800       0x50 ./src/meandr.o
-                0x08001800                meandrB0_capture
+                0x08001894       0x50 ./src/meandr.o
+                0x08001894                meandrB0_capture
  .text.meandrB1_capture
-                0x08001850       0x58 ./src/meandr.o
-                0x08001850                meandrB1_capture
+                0x080018e4       0x58 ./src/meandr.o
+                0x080018e4                meandrB1_capture
  .text.meandr_capture
-                0x080018a8       0x5c ./src/meandr.o
-                0x080018a8                meandr_capture
+                0x0800193c       0x5c ./src/meandr.o
+                0x0800193c                meandr_capture
  .text.init_meandr__gpio
-                0x08001904       0x5c ./src/meandr.o
-                0x08001904                init_meandr__gpio
+                0x08001998       0x5c ./src/meandr.o
+                0x08001998                init_meandr__gpio
  .text.init_meandr_timer
-                0x08001960       0x74 ./src/meandr.o
-                0x08001960                init_meandr_timer
+                0x080019f4       0x74 ./src/meandr.o
+                0x080019f4                init_meandr_timer
  .text.meandr_test
-                0x080019d4       0x30 ./src/meandr.o
-                0x080019d4                meandr_test
+                0x08001a68       0x30 ./src/meandr.o
+                0x08001a68                meandr_test
  .text.TIM3_IRQHandler
-                0x08001a04       0x64 ./src/meandr.o
-                0x08001a04                TIM3_IRQHandler
+                0x08001a98       0x78 ./src/meandr.o
+                0x08001a98                TIM3_IRQHandler
  .text.uint16_time_diff
-                0x08001a68       0x3c ./src/meandr.o
-                0x08001a68                uint16_time_diff
+                0x08001b10       0x3c ./src/meandr.o
+                0x08001b10                uint16_time_diff
  .text.average_period
-                0x08001aa4       0x68 ./src/meandr.o
-                0x08001aa4                average_period
+                0x08001b4c       0x68 ./src/meandr.o
+                0x08001b4c                average_period
  .text.init_outpin
-                0x08001b0c      0x1dc ./src/outpin.o
-                0x08001b0c                init_outpin
+                0x08001bb4      0x1dc ./src/outpin.o
+                0x08001bb4                init_outpin
  .text.NVIC_EnableIRQ
-                0x08001ce8       0x30 ./src/uart.o
+                0x08001d90       0x30 ./src/uart.o
  .text.Init_Uart3
-                0x08001d18       0xa4 ./src/uart.o
-                0x08001d18                Init_Uart3
+                0x08001dc0       0xa4 ./src/uart.o
+                0x08001dc0                Init_Uart3
  .text.USART3_IRQHandler
-                0x08001dbc       0xc0 ./src/uart.o
-                0x08001dbc                USART3_IRQHandler
+                0x08001e64       0xc0 ./src/uart.o
+                0x08001e64                USART3_IRQHandler
  .text.send_Uart
-                0x08001e7c       0x30 ./src/uart.o
-                0x08001e7c                send_Uart
+                0x08001f24       0x30 ./src/uart.o
+                0x08001f24                send_Uart
  .text.send_int_Usart
-                0x08001eac       0x70 ./src/uart.o
-                0x08001eac                send_int_Usart
+                0x08001f54       0x70 ./src/uart.o
+                0x08001f54                send_int_Usart
  .text.NVIC_Init
-                0x08001f1c       0xc0 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
-                0x08001f1c                NVIC_Init
+                0x08001fc4       0xc0 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+                0x08001fc4                NVIC_Init
  .text.ADC_Init
-                0x08001fdc       0xa8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x08001fdc                ADC_Init
+                0x08002084       0xa8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x08002084                ADC_Init
  .text.ADC_CommonInit
-                0x08002084       0x50 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x08002084                ADC_CommonInit
- .text.ADC_Cmd  0x080020d4       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x080020d4                ADC_Cmd
+                0x0800212c       0x50 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x0800212c                ADC_CommonInit
+ .text.ADC_Cmd  0x0800217c       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x0800217c                ADC_Cmd
  .text.ADC_RegularChannelConfig
-                0x0800210c      0x194 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x0800210c                ADC_RegularChannelConfig
+                0x080021b4      0x194 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x080021b4                ADC_RegularChannelConfig
  .text.ADC_SoftwareStartConv
-                0x080022a0       0x20 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x080022a0                ADC_SoftwareStartConv
+                0x08002348       0x20 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x08002348                ADC_SoftwareStartConv
  .text.ADC_EOCOnEachRegularChannelCmd
-                0x080022c0       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x080022c0                ADC_EOCOnEachRegularChannelCmd
+                0x08002368       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x08002368                ADC_EOCOnEachRegularChannelCmd
  .text.ADC_GetConversionValue
-                0x080022f8       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x080022f8                ADC_GetConversionValue
+                0x080023a0       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x080023a0                ADC_GetConversionValue
  .text.ADC_DMACmd
-                0x08002314       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x08002314                ADC_DMACmd
+                0x080023bc       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x080023bc                ADC_DMACmd
  .text.ADC_DMARequestAfterLastTransferCmd
-                0x0800234c       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x0800234c                ADC_DMARequestAfterLastTransferCmd
+                0x080023f4       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x080023f4                ADC_DMARequestAfterLastTransferCmd
  .text.ADC_ITConfig
-                0x08002384       0x50 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x08002384                ADC_ITConfig
+                0x0800242c       0x50 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x0800242c                ADC_ITConfig
  .text.ADC_GetFlagStatus
-                0x080023d4       0x34 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
-                0x080023d4                ADC_GetFlagStatus
+                0x0800247c       0x34 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x0800247c                ADC_GetFlagStatus
  .text.DMA_DeInit
-                0x08002408      0x1a4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
-                0x08002408                DMA_DeInit
+                0x080024b0      0x1a4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+                0x080024b0                DMA_DeInit
  .text.DMA_Init
-                0x080025ac       0xac ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
-                0x080025ac                DMA_Init
- .text.DMA_Cmd  0x08002658       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
-                0x08002658                DMA_Cmd
+                0x08002654       0xac ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+                0x08002654                DMA_Init
+ .text.DMA_Cmd  0x08002700       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+                0x08002700                DMA_Cmd
  .text.DMA_ITConfig
-                0x08002690       0x74 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
-                0x08002690                DMA_ITConfig
+                0x08002738       0x74 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+                0x08002738                DMA_ITConfig
  .text.GPIO_Init
-                0x08002704      0x11c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x08002704                GPIO_Init
+                0x080027ac      0x11c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x080027ac                GPIO_Init
  .text.GPIO_ReadInputDataBit
-                0x08002820       0x34 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x08002820                GPIO_ReadInputDataBit
+                0x080028c8       0x34 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x080028c8                GPIO_ReadInputDataBit
  .text.GPIO_ReadOutputData
-                0x08002854       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x08002854                GPIO_ReadOutputData
+                0x080028fc       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x080028fc                GPIO_ReadOutputData
  .text.GPIO_SetBits
-                0x08002870       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x08002870                GPIO_SetBits
+                0x08002918       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x08002918                GPIO_SetBits
  .text.GPIO_ResetBits
-                0x0800288c       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x0800288c                GPIO_ResetBits
+                0x08002934       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x08002934                GPIO_ResetBits
  .text.GPIO_Write
-                0x080028a8       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x080028a8                GPIO_Write
+                0x08002950       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x08002950                GPIO_Write
  .text.GPIO_PinAFConfig
-                0x080028c4       0x90 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
-                0x080028c4                GPIO_PinAFConfig
+                0x0800296c       0x90 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x0800296c                GPIO_PinAFConfig
  .text.RCC_GetClocksFreq
-                0x08002954      0x154 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
-                0x08002954                RCC_GetClocksFreq
+                0x080029fc      0x154 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                0x080029fc                RCC_GetClocksFreq
  .text.RCC_AHB1PeriphClockCmd
-                0x08002aa8       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
-                0x08002aa8                RCC_AHB1PeriphClockCmd
+                0x08002b50       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                0x08002b50                RCC_AHB1PeriphClockCmd
  .text.RCC_APB1PeriphClockCmd
-                0x08002ae4       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
-                0x08002ae4                RCC_APB1PeriphClockCmd
+                0x08002b8c       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                0x08002b8c                RCC_APB1PeriphClockCmd
  .text.RCC_APB2PeriphClockCmd
-                0x08002b20       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
-                0x08002b20                RCC_APB2PeriphClockCmd
+                0x08002bc8       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                0x08002bc8                RCC_APB2PeriphClockCmd
  .text.TIM_TimeBaseInit
-                0x08002b5c       0xd4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002b5c                TIM_TimeBaseInit
+                0x08002c04       0xd4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002c04                TIM_TimeBaseInit
  .text.TIM_TimeBaseStructInit
-                0x08002c30       0x34 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002c30                TIM_TimeBaseStructInit
+                0x08002cd8       0x34 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002cd8                TIM_TimeBaseStructInit
  .text.TIM_UpdateDisableConfig
-                0x08002c64       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002c64                TIM_UpdateDisableConfig
+                0x08002d0c       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002d0c                TIM_UpdateDisableConfig
  .text.TIM_UpdateRequestConfig
-                0x08002ca4       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002ca4                TIM_UpdateRequestConfig
+                0x08002d4c       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002d4c                TIM_UpdateRequestConfig
  .text.TIM_ARRPreloadConfig
-                0x08002ce4       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002ce4                TIM_ARRPreloadConfig
- .text.TIM_Cmd  0x08002d24       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002d24                TIM_Cmd
+                0x08002d8c       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002d8c                TIM_ARRPreloadConfig
+ .text.TIM_Cmd  0x08002dcc       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002dcc                TIM_Cmd
  .text.TIM_ICInit
-                0x08002d64       0xa8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002d64                TIM_ICInit
+                0x08002e0c       0xa8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002e0c                TIM_ICInit
+ .text.TIM_GetCapture3
+                0x08002eb4       0x18 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002eb4                TIM_GetCapture3
  .text.TIM_SetIC1Prescaler
-                0x08002e0c       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002e0c                TIM_SetIC1Prescaler
+                0x08002ecc       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002ecc                TIM_SetIC1Prescaler
  .text.TIM_SetIC2Prescaler
-                0x08002e44       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002e44                TIM_SetIC2Prescaler
+                0x08002f04       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002f04                TIM_SetIC2Prescaler
  .text.TIM_SetIC3Prescaler
-                0x08002e80       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002e80                TIM_SetIC3Prescaler
+                0x08002f40       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002f40                TIM_SetIC3Prescaler
  .text.TIM_SetIC4Prescaler
-                0x08002eb8       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002eb8                TIM_SetIC4Prescaler
+                0x08002f78       0x3c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002f78                TIM_SetIC4Prescaler
  .text.TIM_ITConfig
-                0x08002ef4       0x48 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002ef4                TIM_ITConfig
+                0x08002fb4       0x48 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002fb4                TIM_ITConfig
  .text.TIM_GetFlagStatus
-                0x08002f3c       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002f3c                TIM_GetFlagStatus
+                0x08002ffc       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08002ffc                TIM_GetFlagStatus
  .text.TIM_ClearFlag
-                0x08002f74       0x20 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002f74                TIM_ClearFlag
+                0x08003034       0x20 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08003034                TIM_ClearFlag
+ .text.TIM_GetITStatus
+                0x08003054       0x54 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08003054                TIM_GetITStatus
  .text.TIM_ClearITPendingBit
-                0x08002f94       0x20 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
-                0x08002f94                TIM_ClearITPendingBit
+                0x080030a8       0x20 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x080030a8                TIM_ClearITPendingBit
  .text.TI1_Config
-                0x08002fb4       0x84 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x080030c8       0x84 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TI2_Config
-                0x08003038       0x98 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x0800314c       0x98 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TI3_Config
-                0x080030d0       0x90 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x080031e4       0x90 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.TI4_Config
-                0x08003160       0x9c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x08003274       0x9c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .text.USART_Init
-                0x080031fc      0x178 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
-                0x080031fc                USART_Init
+                0x08003310      0x178 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x08003310                USART_Init
  .text.USART_Cmd
-                0x08003374       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
-                0x08003374                USART_Cmd
+                0x08003488       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x08003488                USART_Cmd
  .text.USART_SendData
-                0x080033b4       0x24 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
-                0x080033b4                USART_SendData
+                0x080034c8       0x24 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x080034c8                USART_SendData
  .text.USART_ITConfig
-                0x080033d8       0x90 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
-                0x080033d8                USART_ITConfig
+                0x080034ec       0x90 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x080034ec                USART_ITConfig
  .text.USART_GetFlagStatus
-                0x08003468       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
-                0x08003468                USART_GetFlagStatus
+                0x0800357c       0x38 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x0800357c                USART_GetFlagStatus
  .text.USART_GetITStatus
-                0x080034a0       0xb8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
-                0x080034a0                USART_GetITStatus
+                0x080035b4       0xb8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x080035b4                USART_GetITStatus
  .text.startup.register_fini
-                0x08003558       0x14 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
- .text.atexit   0x0800356c        0xc c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
-                0x0800356c                atexit
+                0x0800366c       0x14 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08003680        0xc c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+                0x08003680                atexit
  .text.__libc_fini_array
-                0x08003578       0x2c c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
-                0x08003578                __libc_fini_array
+                0x0800368c       0x2c c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+                0x0800368c                __libc_fini_array
  .text.__register_exitproc
-                0x080035a4       0xa4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
-                0x080035a4                __register_exitproc
+                0x080036b8       0xa4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+                0x080036b8                __register_exitproc
  *(.rodata)
- .rodata        0x08003648        0x8 ./src/io.o
+ .rodata        0x0800375c        0x8 ./src/io.o
  *(.rodata*)
  .rodata.str1.4
-                0x08003650        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                0x08003764        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
  .rodata._global_impure_ptr
-                0x08003654        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
-                0x08003654                _global_impure_ptr
+                0x08003768        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                0x08003768                _global_impure_ptr
  *(.glue_7)
  .glue_7        0x00000000        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x00000000        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08003658        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .eh_frame      0x0800376c        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
  *(.init)
- .init          0x08003658        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
-                0x08003658                _init
- .init          0x0800365c        0x8 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+ .init          0x0800376c        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+                0x0800376c                _init
+ .init          0x08003770        0x8 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
  *(.fini)
- .fini          0x08003664        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
-                0x08003664                _fini
- .fini          0x08003668        0x8 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
-                0x08003670                . = ALIGN (0x4)
-                0x08003670                _etext = .
+ .fini          0x08003778        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+                0x08003778                _fini
+ .fini          0x0800377c        0x8 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+                0x08003784                . = ALIGN (0x4)
+                0x08003784                _etext = .
 
-.vfp11_veneer   0x08003670        0x0
+.vfp11_veneer   0x08003784        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x08003670        0x0
+.v4_bx          0x08003784        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x08003670        0x0
- .iplt          0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+.iplt           0x08003784        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
 
-.rel.dyn        0x08003670        0x0
- .rel.iplt      0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+.rel.dyn        0x08003784        0x0
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08003670        0x0
-                0x08003670                __exidx_start = .
+.ARM            0x08003784        0x0
+                0x08003784                __exidx_start = .
  *(.ARM.exidx*)
-                0x08003670                __exidx_end = .
+                0x08003784                __exidx_end = .
 
-.preinit_array  0x08003670        0x0
-                0x08003670                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x08003784        0x0
+                0x08003784                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x08003670                PROVIDE (__preinit_array_end, .)
+                0x08003784                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x08003670        0x8
-                0x08003670                PROVIDE (__init_array_start, .)
+.init_array     0x08003784        0x8
+                0x08003784                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  .init_array.00000
-                0x08003670        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+                0x08003784        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08003674        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
-                0x08003678                PROVIDE (__init_array_end, .)
+ .init_array    0x08003788        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+                0x0800378c                PROVIDE (__init_array_end, .)
 
-.fini_array     0x08003678        0x4
-                0x08003678                PROVIDE (__fini_array_start, .)
+.fini_array     0x0800378c        0x4
+                0x0800378c                PROVIDE (__fini_array_start, .)
  *(.fini_array*)
- .fini_array    0x08003678        0x4 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .fini_array    0x0800378c        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
  *(SORT(.fini_array.*))
-                0x0800367c                PROVIDE (__fini_array_end, .)
-                0x0800367c                _sidata = .
+                0x08003790                PROVIDE (__fini_array_end, .)
+                0x08003790                _sidata = .
 
-.data           0x20000000      0x548 load address 0x0800367c
+.data           0x20000000      0x548 load address 0x08003790
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -4068,136 +4097,134 @@ LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/arm
  .data.APBAHBPrescTable
                 0x20000110       0x10 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
  .data.impure_data
-                0x20000120      0x428 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                0x20000120      0x428 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
                 0x20000548                . = ALIGN (0x4)
                 0x20000548                _edata = .
 
-.jcr            0x20000548        0x0 load address 0x08003bc4
- .jcr           0x20000548        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+.jcr            0x20000548        0x0 load address 0x08003cd8
+ .jcr           0x20000548        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
 
-.igot.plt       0x20000548        0x0 load address 0x08003bc4
- .igot.plt      0x00000000        0x0 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+.igot.plt       0x20000548        0x0 load address 0x08003cd8
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
                 0x20000548                . = ALIGN (0x4)
 
-.bss            0x20000548      0x130 load address 0x08003bc8
+.bss            0x20000548      0x128 load address 0x08003cd8
                 0x20000548                _sbss = .
                 0x20000548                __bss_start__ = _sbss
  *(.bss)
- .bss           0x20000548       0x1c c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+ .bss           0x20000548       0x1c c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
  *(.bss*)
- .bss.old_wert.6635
-                0x20000564       0x10 ./src/button.o
+ .bss.old_wert.6645
+                0x20000564        0xd ./src/button.o
  .bss.mode_emit
-                0x20000574        0x1 ./src/main.o
-                0x20000574                mode_emit
- *fill*         0x20000575        0x1 
- .bss.voltage   0x20000576        0x2 ./src/main.o
-                0x20000576                voltage
+                0x20000571        0x1 ./src/main.o
+                0x20000571                mode_emit
+ .bss.voltage   0x20000572        0x2 ./src/main.o
+                0x20000572                voltage
  .bss.film_count
-                0x20000578        0x1 ./src/main.o
-                0x20000578                film_count
- .bss.tooth_ch  0x20000579        0x1 ./src/main.o
-                0x20000579                tooth_ch
- .bss.b_Exp     0x2000057a        0x1 ./src/main.o
-                0x2000057a                b_Exp
- .bss.b_Plus    0x2000057b        0x1 ./src/main.o
-                0x2000057b                b_Plus
- .bss.b_Minus   0x2000057c        0x1 ./src/main.o
-                0x2000057c                b_Minus
- .bss.b_Film    0x2000057d        0x1 ./src/main.o
-                0x2000057d                b_Film
- .bss.b_Safe    0x2000057e        0x1 ./src/main.o
-                0x2000057e                b_Safe
- .bss.b_Uin     0x2000057f        0x1 ./src/main.o
-                0x2000057f                b_Uin
- .bss.b_Upm     0x20000580        0x1 ./src/main.o
-                0x20000580                b_Upm
- .bss.b_Umo     0x20000581        0x1 ./src/main.o
-                0x20000581                b_Umo
- .bss.b_Din     0x20000582        0x1 ./src/main.o
-                0x20000582                b_Din
- .bss.b_Dpm     0x20000583        0x1 ./src/main.o
-                0x20000583                b_Dpm
- .bss.b_Dmo     0x20000584        0x1 ./src/main.o
-                0x20000584                b_Dmo
- *fill*         0x20000585        0x1 
+                0x20000574        0x1 ./src/main.o
+                0x20000574                film_count
+ .bss.tooth_ch  0x20000575        0x1 ./src/main.o
+                0x20000575                tooth_ch
+ .bss.b_Exp     0x20000576        0x1 ./src/main.o
+                0x20000576                b_Exp
+ .bss.b_Plus    0x20000577        0x1 ./src/main.o
+                0x20000577                b_Plus
+ .bss.b_Minus   0x20000578        0x1 ./src/main.o
+                0x20000578                b_Minus
+ .bss.b_Film    0x20000579        0x1 ./src/main.o
+                0x20000579                b_Film
+ .bss.b_Safe    0x2000057a        0x1 ./src/main.o
+                0x2000057a                b_Safe
+ .bss.b_Uin     0x2000057b        0x1 ./src/main.o
+                0x2000057b                b_Uin
+ .bss.b_Upm     0x2000057c        0x1 ./src/main.o
+                0x2000057c                b_Upm
+ .bss.b_Umo     0x2000057d        0x1 ./src/main.o
+                0x2000057d                b_Umo
+ .bss.b_Din     0x2000057e        0x1 ./src/main.o
+                0x2000057e                b_Din
+ .bss.b_Dpm     0x2000057f        0x1 ./src/main.o
+                0x2000057f                b_Dpm
+ .bss.b_Dmo     0x20000580        0x1 ./src/main.o
+                0x20000580                b_Dmo
+ *fill*         0x20000581        0x1 
  .bss.capture_is_ready
-                0x20000586        0x2 ./src/meandr.o
-                0x20000586                capture_is_ready
+                0x20000582        0x2 ./src/meandr.o
+                0x20000582                capture_is_ready
  .bss.capture1_is_ready
-                0x20000588        0x2 ./src/meandr.o
-                0x20000588                capture1_is_ready
+                0x20000584        0x2 ./src/meandr.o
+                0x20000584                capture1_is_ready
  .bss.capture2_is_ready
-                0x2000058a        0x2 ./src/meandr.o
-                0x2000058a                capture2_is_ready
- .bss.toggle_ms.6624
-                0x2000058c        0x4 ./src/meandr.o
- .bss._periodB0.6628
-                0x20000590        0x2 ./src/meandr.o
- .bss._periodB1.6632
-                0x20000592        0x2 ./src/meandr.o
+                0x20000586        0x2 ./src/meandr.o
+                0x20000586                capture2_is_ready
+ .bss.toggle_ms.6628
+                0x20000588        0x4 ./src/meandr.o
+ .bss._periodB0.6632
+                0x2000058c        0x2 ./src/meandr.o
+ .bss._periodB1.6636
+                0x2000058e        0x2 ./src/meandr.o
  .bss.sendDataCounter
-                0x20000594        0x1 ./src/uart.o
-                0x20000594                sendDataCounter
- *fill*         0x20000595        0x3 
- .bss.tx_index.6629
-                0x20000598        0x4 ./src/uart.o
+                0x20000590        0x1 ./src/uart.o
+                0x20000590                sendDataCounter
+ *fill*         0x20000591        0x3 
+ .bss.tx_index.6633
+                0x20000594        0x4 ./src/uart.o
  *(COMMON)
- COMMON         0x2000059c       0x28 ./src/button.o
-                0x2000059c                bSafe
-                0x2000059d                bExp
-                0x2000059e                bPat
-                0x200005a0                cntr_imp
-                0x200005a4                ADC_SampleValue
-                0x200005a6                bDmo
-                0x200005a8                cntr_diaph
-                0x200005aa                cntr_laser
-                0x200005ac                bDpm
-                0x200005ad                bFilm
-                0x200005ae                cntr_emit_wd
-                0x200005b0                bUmo
-                0x200005b1                bUpm
-                0x200005b2                tooth
-                0x200005b4                state_err
-                0x200005be                cntr1
-                0x200005c0                bDin
-                0x200005c1                bMinus
-                0x200005c2                bPlus
-                0x200005c3                bUin
- *fill*         0x200005c4        0x4 
- COMMON         0x200005c8       0x8f ./src/main.o
-                0x200005c8                display
-                0x20000640                adc_value
-                0x20000648                mode_struct
-                0x20000650                struct_sample
- *fill*         0x20000657        0x1 
- COMMON         0x20000658        0xc ./src/meandr.o
-                0x20000658                systick_ms
-                0x2000065a                capture1
-                0x2000065c                _periodB0
-                0x2000065e                capture2
-                0x20000660                _period
-                0x20000662                _periodB1
- COMMON         0x20000664        0x8 ./src/outpin.o
-                0x20000664                OutBit_InitStruct
- COMMON         0x2000066c        0x9 ./src/uart.o
-                0x2000066c                StringLoop
-                0x20000670                data
-                0x20000674                chr
-                0x20000678                . = ALIGN (0x4)
- *fill*         0x20000675        0x3 
-                0x20000678                _ebss = .
-                0x20000678                __bss_end__ = _ebss
+ COMMON         0x20000598       0x28 ./src/button.o
+                0x20000598                bSafe
+                0x20000599                bExp
+                0x2000059a                bPat
+                0x2000059c                cntr_imp
+                0x200005a0                ADC_SampleValue
+                0x200005a2                bDmo
+                0x200005a4                cntr_diaph
+                0x200005a6                cntr_laser
+                0x200005a8                bDpm
+                0x200005a9                bFilm
+                0x200005aa                cntr_emit_wd
+                0x200005ac                bUmo
+                0x200005ad                bUpm
+                0x200005ae                tooth
+                0x200005b0                state_err
+                0x200005ba                cntr1
+                0x200005bc                bDin
+                0x200005bd                bMinus
+                0x200005be                bPlus
+                0x200005bf                bUin
+ COMMON         0x200005c0       0x8f ./src/main.o
+                0x200005c0                display
+                0x20000638                adc_value
+                0x20000640                mode_struct
+                0x20000648                struct_sample
+ *fill*         0x2000064f        0x1 
+ COMMON         0x20000650        0xc ./src/meandr.o
+                0x20000650                systick_ms
+                0x20000652                capture1
+                0x20000654                _periodB0
+                0x20000656                capture2
+                0x20000658                _period
+                0x2000065a                _periodB1
+ COMMON         0x2000065c        0x8 ./src/outpin.o
+                0x2000065c                OutBit_InitStruct
+ COMMON         0x20000664        0x9 ./src/uart.o
+                0x20000664                StringLoop
+                0x20000668                data
+                0x2000066c                chr
+                0x20000670                . = ALIGN (0x4)
+ *fill*         0x2000066d        0x3 
+                0x20000670                _ebss = .
+                0x20000670                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000678      0x400 load address 0x08003cf8
-                0x20000678                . = ALIGN (0x4)
-                0x20000678                PROVIDE (end, .)
-                0x20000678                PROVIDE (_end, .)
-                0x20000678                . = (. + _Min_Heap_Size)
-                0x20000a78                . = (. + _Min_Stack_Size)
- *fill*         0x20000678      0x400 
-                0x20000a78                . = ALIGN (0x4)
+                0x20000670      0x400 load address 0x08003e00
+                0x20000670                . = ALIGN (0x4)
+                0x20000670                PROVIDE (end, .)
+                0x20000670                PROVIDE (_end, .)
+                0x20000670                . = (. + _Min_Heap_Size)
+                0x20000a70                . = (. + _Min_Stack_Size)
+ *fill*         0x20000670      0x400 
+                0x20000a70                . = ALIGN (0x4)
 
 .memory_b1_text
  *(.mb1text)
@@ -4214,9 +4241,9 @@ LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/arm
                 0x00000000       0x2e
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x22 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crti.o
  .ARM.attributes
-                0x00000022       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
+                0x00000022       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtbegin.o
  .ARM.attributes
                 0x00000054       0x21 ./startup/startup_stm32f4xx.o
  .ARM.attributes
@@ -4252,132 +4279,132 @@ LOAD c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/arm
  .ARM.attributes
                 0x000003ae       0x37 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
  .ARM.attributes
-                0x000003e5       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
+                0x000003e5       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000417       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+                0x00000417       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
  .ARM.attributes
-                0x00000449       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+                0x00000449       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
  .ARM.attributes
-                0x0000047b       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+                0x0000047b       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
  .ARM.attributes
-                0x000004ad       0x32 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+                0x000004ad       0x32 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
  .ARM.attributes
-                0x000004df       0x22 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
+                0x000004df       0x22 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/softfp/crtn.o
 OUTPUT(Amistom.elf elf32-littlearm)
 
-.debug_line     0x00000000     0x60ba
+.debug_line     0x00000000     0x63ea
  .debug_line    0x00000000       0x7a ./startup/startup_stm32f4xx.o
  .debug_line    0x0000007a      0x476 ./startup/system_stm32f4xx.o
- .debug_line    0x000004f0      0x57c ./src/button.o
- .debug_line    0x00000a6c      0x5ee ./src/display.o
- .debug_line    0x0000105a      0x4eb ./src/globalTimer.o
- .debug_line    0x00001545      0x4fd ./src/io.o
- .debug_line    0x00001a42      0x5bc ./src/main.o
- .debug_line    0x00001ffe      0x638 ./src/meandr.o
- .debug_line    0x00002636      0x57b ./src/outpin.o
- .debug_line    0x00002bb1      0x565 ./src/uart.o
- .debug_line    0x00003116      0x40d ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_line    0x00003523      0x711 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_line    0x00003c34      0x59b ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
- .debug_line    0x000041cf      0x501 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_line    0x000046d0      0x760 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_line    0x00004e30      0xc29 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_line    0x00005a59      0x661 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_line    0x000004f0      0x60b ./src/button.o
+ .debug_line    0x00000afb      0x643 ./src/display.o
+ .debug_line    0x0000113e      0x540 ./src/globalTimer.o
+ .debug_line    0x0000167e      0x552 ./src/io.o
+ .debug_line    0x00001bd0      0x656 ./src/main.o
+ .debug_line    0x00002226      0x696 ./src/meandr.o
+ .debug_line    0x000028bc      0x5d0 ./src/outpin.o
+ .debug_line    0x00002e8c      0x5ba ./src/uart.o
+ .debug_line    0x00003446      0x40d ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_line    0x00003853      0x711 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_line    0x00003f64      0x59b ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_line    0x000044ff      0x501 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_line    0x00004a00      0x760 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_line    0x00005160      0xc29 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_line    0x00005d89      0x661 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_info     0x00000000     0xac06
+.debug_info     0x00000000     0xac4e
  .debug_info    0x00000000       0x74 ./startup/startup_stm32f4xx.o
  .debug_info    0x00000074      0x59a ./startup/system_stm32f4xx.o
- .debug_info    0x0000060e      0xc04 ./src/button.o
- .debug_info    0x00001212      0x787 ./src/display.o
- .debug_info    0x00001999      0x889 ./src/globalTimer.o
- .debug_info    0x00002222      0x7ff ./src/io.o
- .debug_info    0x00002a21      0xfe7 ./src/main.o
- .debug_info    0x00003a08      0xfc3 ./src/meandr.o
- .debug_info    0x000049cb      0x51a ./src/outpin.o
- .debug_info    0x00004ee5      0xbc9 ./src/uart.o
- .debug_info    0x00005aae      0x545 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_info    0x00005ff3      0xc40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_info    0x00006c33      0x741 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
- .debug_info    0x00007374      0x60a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_info    0x0000797e      0xc55 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_info    0x000085d3     0x1c69 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_info    0x0000a23c      0x9ca ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_info    0x0000060e      0xc4c ./src/button.o
+ .debug_info    0x0000125a      0x787 ./src/display.o
+ .debug_info    0x000019e1      0x889 ./src/globalTimer.o
+ .debug_info    0x0000226a      0x7ff ./src/io.o
+ .debug_info    0x00002a69      0xfe7 ./src/main.o
+ .debug_info    0x00003a50      0xfc3 ./src/meandr.o
+ .debug_info    0x00004a13      0x51a ./src/outpin.o
+ .debug_info    0x00004f2d      0xbc9 ./src/uart.o
+ .debug_info    0x00005af6      0x545 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_info    0x0000603b      0xc40 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_info    0x00006c7b      0x741 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_info    0x000073bc      0x60a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_info    0x000079c6      0xc55 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_info    0x0000861b     0x1c69 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_info    0x0000a284      0x9ca ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_abbrev   0x00000000     0x19fa
+.debug_abbrev   0x00000000     0x1a14
  .debug_abbrev  0x00000000       0x12 ./startup/startup_stm32f4xx.o
  .debug_abbrev  0x00000012      0x13b ./startup/system_stm32f4xx.o
- .debug_abbrev  0x0000014d      0x18a ./src/button.o
- .debug_abbrev  0x000002d7      0x1ef ./src/display.o
- .debug_abbrev  0x000004c6      0x167 ./src/globalTimer.o
- .debug_abbrev  0x0000062d      0x163 ./src/io.o
- .debug_abbrev  0x00000790      0x238 ./src/main.o
- .debug_abbrev  0x000009c8      0x208 ./src/meandr.o
- .debug_abbrev  0x00000bd0      0x170 ./src/outpin.o
- .debug_abbrev  0x00000d40      0x205 ./src/uart.o
- .debug_abbrev  0x00000f45      0x14a ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_abbrev  0x0000108f      0x19b ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_abbrev  0x0000122a      0x15a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
- .debug_abbrev  0x00001384      0x1a8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_abbrev  0x0000152c      0x1e8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_abbrev  0x00001714      0x18c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_abbrev  0x000018a0      0x15a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_abbrev  0x0000014d      0x1a4 ./src/button.o
+ .debug_abbrev  0x000002f1      0x1ef ./src/display.o
+ .debug_abbrev  0x000004e0      0x167 ./src/globalTimer.o
+ .debug_abbrev  0x00000647      0x163 ./src/io.o
+ .debug_abbrev  0x000007aa      0x238 ./src/main.o
+ .debug_abbrev  0x000009e2      0x208 ./src/meandr.o
+ .debug_abbrev  0x00000bea      0x170 ./src/outpin.o
+ .debug_abbrev  0x00000d5a      0x205 ./src/uart.o
+ .debug_abbrev  0x00000f5f      0x14a ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_abbrev  0x000010a9      0x19b ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_abbrev  0x00001244      0x15a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_abbrev  0x0000139e      0x1a8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_abbrev  0x00001546      0x1e8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_abbrev  0x0000172e      0x18c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_abbrev  0x000018ba      0x15a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_aranges  0x00000000      0xb20
+.debug_aranges  0x00000000      0xb30
  .debug_aranges
                 0x00000000       0x28 ./startup/startup_stm32f4xx.o
  .debug_aranges
                 0x00000028       0x30 ./startup/system_stm32f4xx.o
  .debug_aranges
-                0x00000058       0x60 ./src/button.o
+                0x00000058       0x70 ./src/button.o
  .debug_aranges
-                0x000000b8       0x68 ./src/display.o
+                0x000000c8       0x68 ./src/display.o
  .debug_aranges
-                0x00000120       0x40 ./src/globalTimer.o
+                0x00000130       0x40 ./src/globalTimer.o
  .debug_aranges
-                0x00000160       0x38 ./src/io.o
+                0x00000170       0x38 ./src/io.o
  .debug_aranges
-                0x00000198       0x40 ./src/main.o
+                0x000001a8       0x40 ./src/main.o
  .debug_aranges
-                0x000001d8       0x88 ./src/meandr.o
+                0x000001e8       0x88 ./src/meandr.o
  .debug_aranges
-                0x00000260       0x38 ./src/outpin.o
+                0x00000270       0x38 ./src/outpin.o
  .debug_aranges
-                0x00000298       0x58 ./src/uart.o
+                0x000002a8       0x58 ./src/uart.o
  .debug_aranges
-                0x000002f0       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+                0x00000300       0x40 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
  .debug_aranges
-                0x00000330      0x148 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+                0x00000340      0x148 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
  .debug_aranges
-                0x00000478       0xb0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+                0x00000488       0xb0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
  .debug_aranges
-                0x00000528       0x88 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x00000538       0x88 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
  .debug_aranges
-                0x000005b0      0x178 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                0x000005c0      0x178 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
  .debug_aranges
-                0x00000728      0x2f8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+                0x00000738      0x2f8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .debug_aranges
-                0x00000a20      0x100 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+                0x00000a30      0x100 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_ranges   0x00000000      0xa18
+.debug_ranges   0x00000000      0xa28
  .debug_ranges  0x00000000       0x20 ./startup/startup_stm32f4xx.o
  .debug_ranges  0x00000020       0x20 ./startup/system_stm32f4xx.o
- .debug_ranges  0x00000040       0x50 ./src/button.o
- .debug_ranges  0x00000090       0x58 ./src/display.o
- .debug_ranges  0x000000e8       0x30 ./src/globalTimer.o
- .debug_ranges  0x00000118       0x28 ./src/io.o
- .debug_ranges  0x00000140       0x30 ./src/main.o
- .debug_ranges  0x00000170       0x78 ./src/meandr.o
- .debug_ranges  0x000001e8       0x28 ./src/outpin.o
- .debug_ranges  0x00000210       0x48 ./src/uart.o
- .debug_ranges  0x00000258       0x30 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_ranges  0x00000288      0x138 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_ranges  0x000003c0       0xa0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
- .debug_ranges  0x00000460       0x78 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_ranges  0x000004d8      0x168 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_ranges  0x00000640      0x2e8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_ranges  0x00000928       0xf0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_ranges  0x00000040       0x60 ./src/button.o
+ .debug_ranges  0x000000a0       0x58 ./src/display.o
+ .debug_ranges  0x000000f8       0x30 ./src/globalTimer.o
+ .debug_ranges  0x00000128       0x28 ./src/io.o
+ .debug_ranges  0x00000150       0x30 ./src/main.o
+ .debug_ranges  0x00000180       0x78 ./src/meandr.o
+ .debug_ranges  0x000001f8       0x28 ./src/outpin.o
+ .debug_ranges  0x00000220       0x48 ./src/uart.o
+ .debug_ranges  0x00000268       0x30 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_ranges  0x00000298      0x138 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_ranges  0x000003d0       0xa0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_ranges  0x00000470       0x78 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_ranges  0x000004e8      0x168 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_ranges  0x00000650      0x2e8 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_ranges  0x00000938       0xf0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_macro    0x00000000     0xeced
+.debug_macro    0x00000000     0xe4b5
  .debug_macro   0x00000000      0x11e ./startup/system_stm32f4xx.o
  .debug_macro   0x0000011e      0x880 ./startup/system_stm32f4xx.o
  .debug_macro   0x0000099e       0x5d ./startup/system_stm32f4xx.o
@@ -4399,80 +4426,78 @@ OUTPUT(Amistom.elf elf32-littlearm)
  .debug_macro   0x0000a90e      0x73b ./startup/system_stm32f4xx.o
  .debug_macro   0x0000b049       0x7f ./startup/system_stm32f4xx.o
  .debug_macro   0x0000b0c8       0x35 ./startup/system_stm32f4xx.o
- .debug_macro   0x0000b0fd      0x18e ./src/button.o
- .debug_macro   0x0000b28b      0x880 ./src/button.o
- .debug_macro   0x0000bb0b       0x22 ./src/button.o
- .debug_macro   0x0000bb2d       0x1c ./src/button.o
- .debug_macro   0x0000bb49      0x1f7 ./src/button.o
- .debug_macro   0x0000bd40      0x182 ./src/button.o
- .debug_macro   0x0000bec2       0xac ./src/button.o
- .debug_macro   0x0000bf6e       0xdf ./src/button.o
- .debug_macro   0x0000c04d       0x22 ./src/button.o
- .debug_macro   0x0000c06f      0x220 ./src/button.o
- .debug_macro   0x0000c28f       0x16 ./src/button.o
- .debug_macro   0x0000c2a5       0x1c ./src/button.o
- .debug_macro   0x0000c2c1       0x3a ./src/button.o
- .debug_macro   0x0000c2fb      0x208 ./src/display.o
- .debug_macro   0x0000c503       0x40 ./src/display.o
- .debug_macro   0x0000c543      0x188 ./src/globalTimer.o
- .debug_macro   0x0000c6cb      0x188 ./src/io.o
- .debug_macro   0x0000c853      0x184 ./src/main.o
- .debug_macro   0x0000c9d7      0x188 ./src/meandr.o
- .debug_macro   0x0000cb5f      0x188 ./src/outpin.o
- .debug_macro   0x0000cce7      0x188 ./src/uart.o
- .debug_macro   0x0000ce6f      0x102 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_macro   0x0000cf71       0x79 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_macro   0x0000cfea      0x183 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_macro   0x0000d16d      0x471 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_macro   0x0000d5de      0x150 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
- .debug_macro   0x0000d72e       0xfc ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_macro   0x0000d82a      0x25f ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_macro   0x0000da89      0x1a4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_macro   0x0000dc2d      0x532 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_macro   0x0000e15f      0x126 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_macro   0x0000e285      0x735 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_macro   0x0000e9ba      0x119 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
- .debug_macro   0x0000ead3      0x21a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_macro   0x0000b0fd      0x197 ./src/button.o
+ .debug_macro   0x0000b294      0x182 ./src/button.o
+ .debug_macro   0x0000b416       0xac ./src/button.o
+ .debug_macro   0x0000b4c2       0xdf ./src/button.o
+ .debug_macro   0x0000b5a1       0x22 ./src/button.o
+ .debug_macro   0x0000b5c3      0x220 ./src/button.o
+ .debug_macro   0x0000b7e3       0x16 ./src/button.o
+ .debug_macro   0x0000b7f9       0x1c ./src/button.o
+ .debug_macro   0x0000b815       0x3a ./src/button.o
+ .debug_macro   0x0000b84f      0x211 ./src/display.o
+ .debug_macro   0x0000ba60       0x40 ./src/display.o
+ .debug_macro   0x0000baa0      0x191 ./src/globalTimer.o
+ .debug_macro   0x0000bc31      0x191 ./src/io.o
+ .debug_macro   0x0000bdc2      0x18d ./src/main.o
+ .debug_macro   0x0000bf4f      0x191 ./src/meandr.o
+ .debug_macro   0x0000c0e0      0x191 ./src/outpin.o
+ .debug_macro   0x0000c271      0x191 ./src/uart.o
+ .debug_macro   0x0000c402      0x102 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_macro   0x0000c504       0x22 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_macro   0x0000c526       0x1c ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_macro   0x0000c542      0x1f7 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_macro   0x0000c739       0x79 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_macro   0x0000c7b2      0x183 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_macro   0x0000c935      0x471 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_macro   0x0000cda6      0x150 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_macro   0x0000cef6       0xfc ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_macro   0x0000cff2      0x25f ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_macro   0x0000d251      0x1a4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_macro   0x0000d3f5      0x532 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_macro   0x0000d927      0x126 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_macro   0x0000da4d      0x735 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_macro   0x0000e182      0x119 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_macro   0x0000e29b      0x21a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_str      0x00000000    0x4bf0e
+.debug_str      0x00000000    0x4bf1e
  .debug_str     0x00000000    0x43b38 ./startup/system_stm32f4xx.o
                               0x43ce6 (size before relaxing)
- .debug_str     0x00043b38     0x49e4 ./src/button.o
-                              0x47eb3 (size before relaxing)
- .debug_str     0x0004851c      0x4e4 ./src/display.o
-                              0x47b1c (size before relaxing)
- .debug_str     0x00048a00       0xb1 ./src/globalTimer.o
-                              0x47c50 (size before relaxing)
- .debug_str     0x00048ab1      0x2de ./src/io.o
-                              0x4791d (size before relaxing)
- .debug_str     0x00048d8f      0x40b ./src/main.o
-                              0x47fda (size before relaxing)
- .debug_str     0x0004919a      0x243 ./src/meandr.o
-                              0x47ff0 (size before relaxing)
- .debug_str     0x000493dd       0x49 ./src/outpin.o
-                              0x47692 (size before relaxing)
- .debug_str     0x00049426      0x199 ./src/uart.o
-                              0x47d8a (size before relaxing)
- .debug_str     0x000495bf      0x12c ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_str     0x00043b38     0x4471 ./src/button.o
+                              0x47f51 (size before relaxing)
+ .debug_str     0x00047fa9      0x4e4 ./src/display.o
+                              0x47ba4 (size before relaxing)
+ .debug_str     0x0004848d       0xb1 ./src/globalTimer.o
+                              0x47cd8 (size before relaxing)
+ .debug_str     0x0004853e      0x2de ./src/io.o
+                              0x479a5 (size before relaxing)
+ .debug_str     0x0004881c      0x40b ./src/main.o
+                              0x48062 (size before relaxing)
+ .debug_str     0x00048c27      0x214 ./src/meandr.o
+                              0x4807a (size before relaxing)
+ .debug_str     0x00048e3b       0x49 ./src/outpin.o
+                              0x4771a (size before relaxing)
+ .debug_str     0x00048e84      0x199 ./src/uart.o
+                              0x47e12 (size before relaxing)
+ .debug_str     0x0004901d      0x6e4 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
                               0x43c88 (size before relaxing)
- .debug_str     0x000496eb      0x7df ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_str     0x00049701      0x7df ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
                               0x44377 (size before relaxing)
- .debug_str     0x00049eca      0x570 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_str     0x00049ee0      0x56a ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
                               0x440ee (size before relaxing)
- .debug_str     0x0004a43a      0x173 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_str     0x0004a44a      0x173 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
                               0x43d33 (size before relaxing)
- .debug_str     0x0004a5ad      0x9cd ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_str     0x0004a5bd      0x9cd ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
                               0x445b4 (size before relaxing)
- .debug_str     0x0004af7a      0xae0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_str     0x0004af8a      0xae0 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
                               0x44727 (size before relaxing)
- .debug_str     0x0004ba5a      0x4b4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_str     0x0004ba6a      0x4b4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
                               0x45427 (size before relaxing)
 
 .comment        0x00000000       0xe0
  .comment       0x00000000       0x70 ./startup/system_stm32f4xx.o
                                  0x71 (size before relaxing)
- .comment       0x00000070       0x70 ./src/button.o
-                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/button.o
  .comment       0x00000000       0x71 ./src/display.o
  .comment       0x00000000       0x71 ./src/globalTimer.o
  .comment       0x00000000       0x71 ./src/io.o
@@ -4480,7 +4505,8 @@ OUTPUT(Amistom.elf elf32-littlearm)
  .comment       0x00000000       0x71 ./src/meandr.o
  .comment       0x00000000       0x71 ./src/outpin.o
  .comment       0x00000000       0x71 ./src/uart.o
- .comment       0x00000000       0x71 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .comment       0x00000070       0x70 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+                                 0x71 (size before relaxing)
  .comment       0x00000000       0x71 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
  .comment       0x00000000       0x71 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
  .comment       0x00000000       0x71 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
@@ -4488,24 +4514,24 @@ OUTPUT(Amistom.elf elf32-littlearm)
  .comment       0x00000000       0x71 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
  .comment       0x00000000       0x71 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
 
-.debug_frame    0x00000000     0x2fec
+.debug_frame    0x00000000     0x303c
  .debug_frame   0x00000000       0x7c ./startup/system_stm32f4xx.o
- .debug_frame   0x0000007c      0x164 ./src/button.o
- .debug_frame   0x000001e0      0x198 ./src/display.o
- .debug_frame   0x00000378       0xc0 ./src/globalTimer.o
- .debug_frame   0x00000438       0x94 ./src/io.o
- .debug_frame   0x000004cc       0xbc ./src/main.o
- .debug_frame   0x00000588      0x204 ./src/meandr.o
- .debug_frame   0x0000078c       0x9c ./src/outpin.o
- .debug_frame   0x00000828      0x12c ./src/uart.o
- .debug_frame   0x00000954       0xd8 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
- .debug_frame   0x00000a2c      0x5ec ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
- .debug_frame   0x00001018      0x308 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
- .debug_frame   0x00001320      0x23c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
- .debug_frame   0x0000155c      0x6d4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
- .debug_frame   0x00001c30      0xe54 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
- .debug_frame   0x00002a84      0x490 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
- .debug_frame   0x00002f14       0x50 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
- .debug_frame   0x00002f64       0x20 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
- .debug_frame   0x00002f84       0x34 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
- .debug_frame   0x00002fb8       0x34 c:/gnu tools arm embedded/4.9 2014q4/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000007c      0x1b4 ./src/button.o
+ .debug_frame   0x00000230      0x198 ./src/display.o
+ .debug_frame   0x000003c8       0xc0 ./src/globalTimer.o
+ .debug_frame   0x00000488       0x94 ./src/io.o
+ .debug_frame   0x0000051c       0xbc ./src/main.o
+ .debug_frame   0x000005d8      0x204 ./src/meandr.o
+ .debug_frame   0x000007dc       0x9c ./src/outpin.o
+ .debug_frame   0x00000878      0x12c ./src/uart.o
+ .debug_frame   0x000009a4       0xd8 ./lib/STM32F4xx_StdPeriph_Driver/src/misc.o
+ .debug_frame   0x00000a7c      0x5ec ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.o
+ .debug_frame   0x00001068      0x308 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.o
+ .debug_frame   0x00001370      0x23c ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_frame   0x000015ac      0x6d4 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_frame   0x00001c80      0xe54 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.o
+ .debug_frame   0x00002ad4      0x490 ./lib/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.o
+ .debug_frame   0x00002f64       0x50 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002fb4       0x20 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00002fd4       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00003008       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q2/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/softfp\libg.a(lib_a-__atexit.o)

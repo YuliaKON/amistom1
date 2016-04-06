@@ -31,6 +31,14 @@ BUTTON_t BUTTON[] = {
   {B_EXP 	 ,GPIOC, GPIO_Pin_8		,RCC_AHB1Periph_GPIOC, GPIO_PuPd_UP, Bit_SET},
 };
 
+void Beeper(_Bool state){
+	(state == 1)?  PIN_HIGH(GPIOC, GPIO_Pin_6): PIN_LOW(GPIOC, GPIO_Pin_6);
+}
+
+void Emission(_Bool state){
+	(state == 1)?  PIN_HIGH(GPIOC, GPIO_Pin_6): PIN_LOW(GPIOC, GPIO_Pin_7);
+}
+
 void Button_Init(void)
 {
   GPIO_InitTypeDef GPIO_InitStructure;

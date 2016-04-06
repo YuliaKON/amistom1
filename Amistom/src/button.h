@@ -94,6 +94,9 @@ _Bool Button_OnRelease(BUTTON_NAME_t btn_name);
 _Bool Button_OnPressed(BUTTON_NAME_t btn_name);
 _Bool Button_Read(BUTTON_NAME_t btn_name);
 _Bool Button_test(void);
+
+void Beeper(_Bool state);
+void Emission(_Bool state);
 void Button_Init(void);
 
   #define   BUTTON_TIM              TIM7
